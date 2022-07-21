@@ -28,9 +28,9 @@ news:
 ---
 {% include image.html url="images/bau1.jpg" width="120px" height="120px"  %}
 
-Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, Bahcesehir University]{:target="_blank"}. It resides at D201 in the [Faculty of Engineering and Natural Sciences]{:target="_blank"} (FCI).
+BAU Computer Vision Lab is a research lab under the Centre for Visual Computing, Bahcesehir University]{:target="_blank"}. It resides at D201 in the [Faculty of Engineering and Natural Sciences]{:target="_blank"} (FCI).
 
-Research in ViPr Lab focuses on the processing, analysis and understanding of visual multimedia data, particularly images and videos. We work on computer vision, machine learning and AI techniques that are able to solve real-world problems and develop innovative applications for the benefit of science and society. Check out our [research projects](/research/) and [publications](/papers/).
+Research in BauCV Lab focuses on the processing, analysis and understanding of visual multimedia data, particularly images and videos. We work on computer vision, machine learning and AI techniques that are able to solve real-world problems and develop innovative applications for the benefit of science and society. Check out our [research projects](/research/) and [publications](/papers/).
 
 ## Areas
 
