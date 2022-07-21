@@ -28,7 +28,7 @@ news:
 ---
 {% include image.html url="images/bau2.jpg" width="120px" height="120px"  %}
 
-Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, [Multimedia University]{:target="_blank"}. It resides at AR4004 in the [Faculty of Computing and Informatics]{:target="_blank"} (FCI).
+Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, Bahcesehir University]{:target="_blank"}. It resides at D201 in the [Faculty of Engineering and Natural Sciences]{:target="_blank"} (FCI).
 
 Research in ViPr Lab focuses on the processing, analysis and understanding of visual multimedia data, particularly images and videos. We work on computer vision, machine learning and AI techniques that are able to solve real-world problems and develop innovative applications for the benefit of science and society. Check out our [research projects](/research/) and [publications](/papers/).
 
@@ -51,7 +51,7 @@ We work on a wide variety of research areas, particularly in the following speci
 
 ## Prospective Students
 
-We are always happy to hear from enthusiastic prospective students (postgraduate/undergraduate). We may have funded positions or scholarships from time to time. Please drop us an email ([Dr. Wong Lai Kuan] or [Dr. Loh Yuen Peng]) if you have any enquiries about our research or would like to join us.
+We are always happy to hear from enthusiastic prospective students (postgraduate/undergraduate). We may have funded positions or scholarships from time to time. Please drop us an email ([Md Baharul Islam]) if you have any enquiries about our research or would like to join us.
 
 Undergraduate students can also be part of the group by joining us on voluntary projects or on part-time appointment via research funding.
 
