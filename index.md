@@ -3,10 +3,10 @@ layout: page
 title:
 permalink: /
 news:
-   - date: 05/2021
-     info: "We have **two** papers accepted to [ICIP 2021](https://www.2021.ieeeicip.org/) on aesthetics captioning and micro-expression spotting."
+   - date: 07/2022
+     info: "We have initiated our website! Glad to see you visit us. "
    - date: 04/2021
-     info: [Dr. John See](https://john-see.github.io) will remain as an Associate Member of this lab, as he takes on a new role at Heriot-Watt University Malaysia."
+     info: [Md Baharul Islam](https://www.linkedin.com/in/baharul/) has set three teams up for new researches. Go check out!"
 #   - date: 2017-05-31
 #     info: Our projects garnered three medals (2 gold, 1 silver) at [ITEX 2017](https://itex.com.my/)!
 #   - date: 2017-03-15
@@ -26,7 +26,7 @@ news:
 #   - date: 2016-05-26
 #     info: Website up and running.
 ---
-{% include image.html url="images/viprlablogo-square-trans.png" width="120px" height="120px"  %}
+{% include image.html url="images/bau2.png" width="120px" height="120px"  %}
 
 Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, [Multimedia University]{:target="_blank"}. It resides at AR4004 in the [Faculty of Computing and Informatics]{:target="_blank"} (FCI).
 
@@ -59,7 +59,7 @@ Undergraduate students can also be part of the group by joining us on voluntary 
 
 Please see our [this page](/research/jobs/) for news on vacancies!
 
-[Multimedia University]: http://www.mmu.edu.my
-[Faculty of Computing and Informatics]: http://fci.mmu.edu.my
-[Dr. Loh Yuen Peng]: mailto:yploh@mmu.edu.my
-[Dr. Wong Lai Kuan]: mailto:lkwong@mmu.edu.my
+[Bahcesehir University]: http://www.bau.edu.tr
+[Faculty of Engineering and Natural Sciences]: https://bau.edu.tr/academic/12581-faculty-of-engineering-and-natural-sciences
+[Md Baharul Islam]: mailto:mdbaharul.islam@eng.bau.edu.tr
+[Yusuf B. Tanrıverdi]: mailto:yusufbtanriverdi@hotmail.com
