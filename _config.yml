@@ -1,11 +1,11 @@
-title: Visual Processing (ViPr) Lab
+title: BAU Computer Vision (BauCV) Lab
 description: Images. Intelligence. Immersion.
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "http://viprlab.github.io"     # the base hostname & protocol for your site
+url: "http://baucomputervision.github.io"     # the base hostname & protocol for your site
 baseurl: ""                         # the subpath of your site, e.g. /blog
 
 author:
