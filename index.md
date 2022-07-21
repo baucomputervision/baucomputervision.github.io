@@ -26,7 +26,7 @@ news:
 #   - date: 2016-05-26
 #     info: Website up and running.
 ---
-{% include image.html url="images/bau2.jpg" width="120px" height="120px"  %}
+{% include image.html url="images/bau1.jpg" width="120px" height="120px"  %}
 
 Visual Processing (ViPr) Lab is a research lab under the Centre for Visual Computing, Bahcesehir University]{:target="_blank"}. It resides at D201 in the [Faculty of Engineering and Natural Sciences]{:target="_blank"} (FCI).
 
@@ -49,7 +49,7 @@ We work on a wide variety of research areas, particularly in the following speci
 
 {% include news.html %}
 
-## Prospective Students
+## Prospective Students	
 
 We are always happy to hear from enthusiastic prospective students (postgraduate/undergraduate). We may have funded positions or scholarships from time to time. Please drop us an email ([Md Baharul Islam]) if you have any enquiries about our research or would like to join us.
 
