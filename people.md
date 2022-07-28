@@ -6,7 +6,7 @@ permalink: /people/
 
 ## Faculty Staff
 
-{% include imagethumbnailblock.html url="/images/people/bahar.jpg" caption="[Dr. Baharul Islam]" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/bahar.jpg" caption="[Dr. Baharul Islam](https://akademik.bahcesehir.edu.tr/web/mdbaharulislam/tr/index.html)" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/tarkan.jpg" caption="[Dr. Tarkan Aydın]" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/lavdie.jpg" caption="[Dr. Lavdie Rada]" width="120px" height="120px"  %}
 
@@ -25,7 +25,6 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/people/sevval.jpg" caption="Şevval Çolak" caption2="Undergraduate student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/ugur.jpg" caption="Uğur Taysi" caption2="Undergraduate student" width="120px" height="120px"  %}
 
-[Dr. Baharul Islam]:https://akademik.bahcesehir.edu.tr/web/mdbaharulislam/tr/index.html
 [Dr. Tarkan Aydın]:https://akademik.bahcesehir.edu.tr/web/tarkanaydin/en/index.html
 [Dr. Lavdie Rada]:https://akademik.bahcesehir.edu.tr/web/lavdieradaulgen/tr/index.html
 [Masum Shah Junayed]:https://www.linkedin.com/in/masum-shah-junayed/
