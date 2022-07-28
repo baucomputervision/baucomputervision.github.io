@@ -6,17 +6,15 @@ permalink: /people/
 
 ## Faculty Staff
 
-{% include imagethumbnailblock.html url="/images/people/bahar.jpg" width="120px" height="120px"  %}
-{{< caption >}}The [Amazon Rainforest](https://en.wikipedia.org/wiki/Amazon_rainforest) contains a multitude of species.{{< /caption >}}
-
-{% include imagethumbnailblock.html url="/images/people/tarkan.jpg" caption="[Dr. Tarkan Aydın]" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/people/lavdie.jpg" caption="[Dr. Lavdie Rada]" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/bahar.jpg" caption="Dr. Baharul Islam" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/tarkan.jpg" caption="Dr. Tarkan Aydın" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/lavdie.jpg" caption="Dr. Lavdie Rada" width="120px" height="120px"  %}
 
 ## Postgraduates
 {% include imagethumbnailblock.html url="/images/people/hassan.jpg" caption="Hassan Imani" caption2="Ph.D student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/imran.jpg" caption="Md Imran Hosen" caption2="Ph.D student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/arezoo.jpg" caption="Arezoo Sadeghzadeh" caption2="Ph.D student" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/people/masum.jpg" caption="[Masum Shah Junayed]" caption2="M.Sc student" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/masum.jpg" caption="Masum Shah Junayed" caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/nophoto.jpg" caption="Afsana" caption2="" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/alnur.jpg" caption="Alnur Alimanov " caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/misagh.jpg" caption="Misagh Asgari" caption2="M.Sc student" width="120px" height="120px"  %}
