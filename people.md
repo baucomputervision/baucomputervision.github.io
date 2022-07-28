@@ -22,6 +22,6 @@ permalink: /people/
 
 ## Interns
 {% include imagethumbnailblock.html url="/images/people/yusuf.jpg" caption="Yusuf B. Tanrıverdi" caption2="Undergraduate student" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/people/şevval.jpg" caption="Şevval Çolak" caption2="Undergraduate student" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/sevval.jpg" caption="Şevval Çolak" caption2="Undergraduate student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/ugur.jpg" caption="Uğur Taysi" caption2="Undergraduate student" width="120px" height="120px"  %}
 
