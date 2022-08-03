@@ -1,22 +1,3 @@
-Dear Yusuf,
-You will find the publication list (accepted and published) below, and pdf for published one.
- 
-1.      , "An Effective Multi-Camera Dataset and Hybrid Feature Matcher for Real-Time Video Stitching," 2021 , 2021, pp. 1-6, doi: 10.1109/IVCNZ54163.2021.9653352.
-
-[Note: attached pdf and presentation pdf for number 1 publication ]
-
-On Mon, Jul 25, 2022 at 1:37 PM Imran Hosen <imranjucse21@gmail.com> wrote:
-Dear Yusuf,
-I am Md Imran Hosen. Please find the information about myself below:
-
-Full Name: Md Imran Hosen
-Ph.D Scholar
-
-Research Area:
-Machine Learning, Computer Vision
-
-
-
 ---
 layout: page
 permalink: /papers/
