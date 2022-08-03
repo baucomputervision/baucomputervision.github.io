@@ -15,7 +15,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/people/imran.jpg" caption="Md Imran Hosen" caption2="Ph.D student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/arezoo.jpg" caption="Arezoo Sadeghzadeh" caption2="Ph.D student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/masum.jpg" caption="Masum Shah Junayed" caption2="M.Sc student" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/people/nophoto.jpg" caption="Afsana" caption2="" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/afsana.jpg" caption="Afsana Ahsan Jeny " caption2="" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/alnur.jpg" caption="Alnur Alimanov " caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/misagh.jpg" caption="Misagh Asgari" caption2="M.Sc student" width="120px" height="120px"  %}
 
