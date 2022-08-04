@@ -18,17 +18,17 @@ pubs:
           type:     c
           url:        
           doi:                     
-        - title:   "Localization Guided Fight Action Detection in Surveillance Videos"
-          author:  "Qichao Xu, John See, Weiyao Lin"
-          pub:     "IEEE International Conference on Multimedia and Expo (ICME)"
+        - title:   "HiMFR: A Hybrid Masked Face Recognition Through Face Inpainting"
+          author:  "M. Baharul Islam, M. Imran Hosen"
+          pub:     "International Conference on Pattern Recognition Workshop: Deep Learning for Visual Detection and Recognition"
           type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8784746"    
-          doi:     "https://doi.org/10.1109/ICME.2019.00104"  
-        - title:   "Towards Accurate One-Stage Object Detection With AP-Loss"
-          author:  "Kean Chen, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou"
-          pub:     "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+          url:     "https://cmt3.research.microsoft.com/DLVDR2022"   
+          doi:     
+        - title:   "Maked Face Inpainting Through Residual Attention UNet"
+          author:  "M. Imran Hosen, M. Baharul Islam"
+          pub:     "Innovations in Intelligent Systems and Applications Conference (ASYU 2022)"
           type:     c
-          url:     "http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Accurate_One-Stage_Object_Detection_With_AP-Loss_CVPR_2019_paper.pdf"
+          url:     
         - title:   "GANmera: Reproducing Aesthetically Pleasing Photographs Using Deep Adversarial Networks"
           author:  "Nelson Chong, Lai-Kuan Wong, John See"
           pub:     "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
