@@ -13,6 +13,12 @@ pubs:
           url:     "https://cmt3.research.microsoft.com/DLVDR2022"    
           doi:  
 	  note:	   "Accepted"
+        - title:   "HiMODE: A Hybrid Monocular Omnidirectional Depth Estimation Model"
+          author:  "Masum Shah Junayed, Arezoo Sadeghzadeh, Md Baharul Islam, Lai-Kuan Wong, and Tarkan Aydin"
+          pub:     "CVPR 2022, 3rd OmniCV Workshop"
+          type:     c
+          url:     
+          doi:  
         - title:   "HiMFR: A Hybrid Masked Face Recognition Through Face Inpainting"
           author:  "M. Baharul Islam, M. Imran Hosen"
           pub:     "International Conference on Pattern Recognition Workshop: Deep Learning for Visual Detection and Recognition"
@@ -53,13 +59,6 @@ pubs:
           url:      "https://arxiv.org/pdf/2204.10039.pdf"
           doi:     
           note:	   
-        - title:    "Triplet Loss-based Convolutional Neural Network for Static Sign Language Recognition"
-          author:  "Arezoo Sadeghzadeh, Md Baharul Islam"
-          pub:     "Innovations in Intelligent Systems and Applications Conference"
-          type:     
-          url:     
-          doi:     
-          note:	  "Accepted"
     - year: "2021"
       groups:
         - title:   "Deep Covariance Feature and CNN-based End-to-End Masked Face Recognition "
