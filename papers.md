@@ -38,20 +38,6 @@ pubs:
           url:     "https://cmt3.research.microsoft.com/TCAP2022"    
           doi:     
           note:	   "Accepted"   
-        - title:   "Stereoscopic Video Quality Assessment Using Modified Parallax Attention Module."
-          author:  "Imani, Hassan, et al."
-          pub:     "Digitizing Production Systems. Springer, Cham, 2022. 39-50."
-          type:     
-          url:     "https://www.researchgate.net/profile/Hassan-Imani/publication/356125832_Stereoscopic_Video_Quality_Assessment_Using_Modified_Parallax_Attention_Module/links/61ca1840e669ee0f5c6a953f/Stereoscopic-Video-Quality-Assessment-Using-Modified-Parallax-Attention-Module.pdf"   
-          doi:     
-          note:	    
-        - title:   "Three-Stream 3D deep CNN for no-Reference stereoscopic video quality assessment."
-          author:  "Imani, Hassan, Md Baharul Islam, and Nafiz Arica."
-          pub:     "Intelligent Systems with Applications 13"
-          type:     
-          url:      "https://www.researchgate.net/profile/Hassan-Imani/publication/357274721_Three-Stream_3D_Deep_CNN_for_No-Reference_Stereoscopic_Video_Quality_Assessment/links/61ca16eed4500608166fb1f3/Three-Stream-3D-Deep-CNN-for-No-Reference-Stereoscopic-Video-Quality-Assessment.pdf"
-          doi:     
-          note:	    
         - title:    "A New Dataset and Transformer for Stereoscopic Video Super-Resolution."
           author:  "Imani, Hassan, Md Baharul Islam, and Lai-Kuan Wong"
           pub:     "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition"
@@ -59,6 +45,13 @@ pubs:
           url:      "https://arxiv.org/pdf/2204.10039.pdf"
           doi:     
           note:	   
+        - title:    "Triplet Loss-based Convolutional Neural Network for Static Sign Language Recognition"
+          author:  "Arezoo Sadeghzadeh, Md Baharul Islam"
+          pub:     "Innovations in Intelligent Systems and Applications Conference"
+          type:     
+          url:     
+          doi:     
+          note:	  "Accepted"
     - year: "2021"
       groups:
         - title:   "Deep Covariance Feature and CNN-based End-to-End Masked Face Recognition "
