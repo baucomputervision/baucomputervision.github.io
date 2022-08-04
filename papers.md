@@ -41,7 +41,7 @@ pubs:
         - title:   "Stereoscopic Video Quality Assessment Using Modified Parallax Attention Module."
           author:  "Imani, Hassan, et al."
           pub:     "Digitizing Production Systems. Springer, Cham, 2022. 39-50."
-          type:     b
+          type:     
           url:     "https://www.researchgate.net/profile/Hassan-Imani/publication/356125832_Stereoscopic_Video_Quality_Assessment_Using_Modified_Parallax_Attention_Module/links/61ca1840e669ee0f5c6a953f/Stereoscopic-Video-Quality-Assessment-Using-Modified-Parallax-Attention-Module.pdf"   
           doi:     
           note:	    
