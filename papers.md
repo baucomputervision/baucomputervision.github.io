@@ -126,6 +126,5 @@ Lab faculty members indicated in **bold**. Papers marked using [DBLP](https://db
 <span class="authors">{{entry.author | replace: 'John See', '**John See**' | replace: 'Lai-Kuan Wong', '**Lai-Kuan Wong**' | replace: 'Albert Quek', '**Albert Quek**'}}</span><br />
 <span class="publication">{{entry.pub}}
 {% if entry.url %} &nbsp;[![pdf](/images/pdf-icon.png)]({{entry.url}}) {% endif %} {% if entry.doi %} [![doi](/images/doi-icon.png)]({{entry.doi}}) {% endif %} {% if entry.note %} <span class="note">[{{entry.note}}]</span>{% endif %}</span>
-{% if entry.ppt %} &nbsp; [![pdf](/images/slides-icon.png)]({{entry.ppt}}) {% endif %}
 {% endfor %}
 {% endfor %}
