@@ -102,8 +102,7 @@ pubs:
           type:    
           url:     
           doi:     
-          note: 
-	  ppt:    
+          note:
         - title:  "An Efficient Video Desnowing and Deraining Method with a Novel Variant Dataset"
           author:  "Arezoo Sadeghzadeh, Md Baharul Islam, Reza Zaker"
           pub:     "International Conference on Computer Vision Systems"
