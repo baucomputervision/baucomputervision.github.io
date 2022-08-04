@@ -29,23 +29,23 @@ pubs:
           pub:     "Innovations in Intelligent Systems and Applications Conference (ASYU 2022)"
           type:     c
           url:     
-        - title:   "GANmera: Reproducing Aesthetically Pleasing Photographs Using Deep Adversarial Networks"
-          author:  "Nelson Chong, Lai-Kuan Wong, John See"
-          pub:     "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+        - title:   "Emotion, Age and Gender Prediction Through Masked Face Inpainting"
+          author:  "M. Baharul Islam, M. Imran Hosen"
+          pub:     "Towards a Complete Analysis of People: From Face and Body to Clothes (T-CAP Workshop at ICPR 2022)"
           type:     c
-          url:     "http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Chong_GANmera_Reproducing_Aesthetically_Pleasing_Photographs_Using_Deep_Adversarial_Networks_CVPRW_2019_paper.pdf" 
-        - title:   "Understanding the Photo-shooting Patterns of Sightseeing"
-          author:  "Xuefeng Liang, Song Tong, Takatsune Kumada, Yuen Peng Loh"
-          pub:     "ACM"
+          url:     "https://cmt3.research.microsoft.com/TCAP2022"
+        - title:   "Stereoscopic Video Quality Assessment Using Modified Parallax Attention Module."
+          author:  "Imani, Hassan, et al."
+          pub:     "Digitizing Production Systems. Springer, Cham, 2022. 39-50."
           type:     c
-          url:     "https://dl.acm.org/ft_gateway.cfm?id=3352418&ftid=2081415&dwn=1&CFID=97199788&CFTOKEN=84f810b61c320a40-E7E3C29E-CB8E-3735-57135A5862EFFF2E"  
-          doi:     "https://doi.org/10.1145/3352411.3352418"               
+          url:     "https://www.researchgate.net/profile/Hassan-Imani/publication/356125832_Stereoscopic_Video_Quality_Assessment_Using_Modified_Parallax_Attention_Module/links/61ca1840e669ee0f5c6a953f/Stereoscopic-Video-Quality-Assessment-Using-Modified-Parallax-Attention-Module.pdf"  
+          doi:                  
         - title:   "Shallow triple stream three-dimensional CNN (STSTNet) for micro-expression recognition"
           author:  "Sze-Teng Liong, YS Gan, John See, Huai-Qian Khor"
           pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
           type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756567"  
-          doi:      "https://doi.org/10.1109/FG.2019.8756567"
+          url:     "https://www.researchgate.net/profile/Hassan-Imani/publication/356125832_Stereoscopic_Video_Quality_Assessment_Using_Modified_Parallax_Attention_Module/links/61ca1840e669ee0f5c6a953f/Stereoscopic-Video-Quality-Assessment-Using-Modified-Parallax-Attention-Module.pdf"
+          doi:     
         - title:   "MEGC 2019 – The Second Facial Micro-Expressions Grand Challenge"
           author:  "John See, Moi Hoon Yap, Jingting Li, Xiaopeng Hong, Su-Jing Wang"
           pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
