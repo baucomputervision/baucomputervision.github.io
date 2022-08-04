@@ -12,6 +12,7 @@ pubs:
           type:     c
           url:     "https://cmt3.research.microsoft.com/DLVDR2022"    
           doi:  
+	  note:	   "Accepted"
         - title:   "HiMODE: A Hybrid Monocular Omnidirectional Depth Estimation Model"
           author:  "Masum Shah Junayed, Arezoo Sadeghzadeh, Md Baharul Islam, Lai-Kuan Wong, and Tarkan Aydin"
           pub:     "CVPR 2022, 3rd OmniCV Workshop"
@@ -102,7 +103,7 @@ pubs:
           url:     
           doi:     
           note: 
-	  ppt:    "/files/Arezoo_BinoVFAR presentation.pdf"
+	  ppt:    
         - title:  "An Efficient Video Desnowing and Deraining Method with a Novel Variant Dataset"
           author:  "Arezoo Sadeghzadeh, Md Baharul Islam, Reza Zaker"
           pub:     "International Conference on Computer Vision Systems"
