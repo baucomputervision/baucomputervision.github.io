@@ -6,76 +6,60 @@ pubs:
 
     - year: "2022"
       groups:
-        - title:   "Efficient Semantic-Based Vehicle Retrieval in Long-term Car Park Videos"
-          author:  "Clarence Weihan Cheong, Ryan Woei-Sheng Lim, John See, Lai-Kuan Wong, Ian K.T. Tan"
-          pub:     "IEEE International Conference on Multimedia & Expo Workshops (ICMEW)"
+        - title:   "Retinal Image Restoration and Vessel Segmentation using Modified Cycle-CBAM and CBAM-UNet"
+          author:  "Alnur Alimanov, Md Baharul Islam"
+          pub:     "Innovations in Intelligent Systems and Applications Conference"
           type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8795027"    
-          doi:     "https://doi.org/10.1109/ICMEW.2019.00-97" 
-        - title:   "Warping-based Stereoscopic 3D Video Retargeting with Depth Remapping"
-          author:  "Md Baharul Islam, Lai-Kuan Wong, Kok-Lim Low, Chee Onn Wong"
-          pub:     "IEEE Winter Conference on Applications of Computer Vision (WACV)"
+          url:     "https://cmt3.research.microsoft.com/DLVDR2022"    
+          doi:  
+	  note:	   "Accepted"
+        - title:   "HiMFR: A Hybrid Masked Face Recognition Through Face Inpainting"
+          author:  "M. Baharul Islam, M. Imran Hosen"
+          pub:     "International Conference on Pattern Recognition Workshop: Deep Learning for Visual Detection and Recognition"
           type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658242"    
-          doi:     "https://doi.org/10.1109/WACV.2019.00181"                    
-        - title:   "Localization Guided Fight Action Detection in Surveillance Videos"
-          author:  "Qichao Xu, John See, Weiyao Lin"
-          pub:     "IEEE International Conference on Multimedia and Expo (ICME)"
+          url:     "https://cmt3.research.microsoft.com/DLVDR2022"    
+          doi:          
+        - title:   "Maked Face Inpainting Through Residual Attention UNet"
+          author:  "M. Imran Hosen, M. Baharul Islam"
+          pub:     "Innovations in Intelligent Systems and Applications Conference (ASYU 2022)"
           type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8784746"    
-          doi:     "https://doi.org/10.1109/ICME.2019.00104"  
-        - title:   "Towards Accurate One-Stage Object Detection With AP-Loss"
-          author:  "Kean Chen, Jianguo Li, Weiyao Lin, John See, Ji Wang, Lingyu Duan, Zhibo Chen, Changwei He, Junni Zou"
-          pub:     "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+          url:     
+          doi:       
+        - title:   "Emotion, Age and Gender Prediction Through Masked Face Inpainting"
+          author:  "M. Baharul Islam, M. Imran Hosen"
+          pub:     "Towards a Complete Analysis of People: From Face and Body to Clothes (T-CAP Workshop at ICPR 2022)"
           type:     c
-          url:     "http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Towards_Accurate_One-Stage_Object_Detection_With_AP-Loss_CVPR_2019_paper.pdf"
-        - title:   "GANmera: Reproducing Aesthetically Pleasing Photographs Using Deep Adversarial Networks"
-          author:  "Nelson Chong, Lai-Kuan Wong, John See"
-          pub:     "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
-          type:     c
-          url:     "http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Chong_GANmera_Reproducing_Aesthetically_Pleasing_Photographs_Using_Deep_Adversarial_Networks_CVPRW_2019_paper.pdf" 
-        - title:   "Understanding the Photo-shooting Patterns of Sightseeing"
-          author:  "Xuefeng Liang, Song Tong, Takatsune Kumada, Yuen Peng Loh"
-          pub:     "ACM"
-          type:     c
-          url:     "https://dl.acm.org/ft_gateway.cfm?id=3352418&ftid=2081415&dwn=1&CFID=97199788&CFTOKEN=84f810b61c320a40-E7E3C29E-CB8E-3735-57135A5862EFFF2E"  
-          doi:     "https://doi.org/10.1145/3352411.3352418"               
-        - title:   "Shallow triple stream three-dimensional CNN (STSTNet) for micro-expression recognition"
-          author:  "Sze-Teng Liong, YS Gan, John See, Huai-Qian Khor"
-          pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
-          type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756567"  
-          doi:      "https://doi.org/10.1109/FG.2019.8756567"
-        - title:   "MEGC 2019 – The Second Facial Micro-Expressions Grand Challenge"
-          author:  "John See, Moi Hoon Yap, Jingting Li, Xiaopeng Hong, Su-Jing Wang"
-          pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
-          type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756611"  
-          doi:     "https://doi.org/10.1109/FG.2019.8756611" 
-        - title:   "Group Re-Identification with Multi-grained Matching and Integration"
-          author:  "Weiyao Lin, Yuxi Li, Hao Xiao, John See, Junni Zou, Hongkai Xiong, Jingdong Wang, Tao Mei"
-          pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
-          type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756611"  
-          doi:     "https://doi.org/10.1109/FG.2019.8756611"   
-        - title:   "Low-light image enhancement using Gaussian Process for features retrieval"
-          author:  "Yuen Peng Loh, Xuefeng Liang, Chee Seng Chan"
-          pub:     "Signal Processing: Image Communication"
-          type:     j
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658242&tag=1"  
-          doi:     "https://doi.org/10.1016/j.image.2019.02.001"                         
-        - title:   "Wide or Narrow? A Visual Attention Inspired Model for View-Type Classification"
-          author:  "Song Tong, Yuen Peng Loh, Xuefeng Liang, Takatsune Kumada"
-          pub:     "IEEE Access ( Volume: 7 )"
-          type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8692716"  
-          doi:     "https://doi.org/10.1109/ACCESS.2019.2908856"                   
-        - title:   "Getting to Know Low-light Images with The Exclusively Dark Dataset"
-          author:  "Yuen Peng Loh, Chee Seng Chan"
-          pub:     "Computer Vision and Image Understanding"
-          type:     j
-          url:     "https://www.sciencedirect.com/science/article/pii/S1077314218304296/pdfft?md5=ad7231052bc8af766aa18aa274921432&pid=1-s2.0-S1077314218304296-main.pdf"  
-          doi:     "https://doi.org/10.1016/j.cviu.2018.10.010" 
+          url:     "https://cmt3.research.microsoft.com/TCAP2022"    
+          doi:     
+          note:	   "Accepted"   
+        - title:   "Stereoscopic Video Quality Assessment Using Modified Parallax Attention Module."
+          author:  "Imani, Hassan, et al."
+          pub:     "Digitizing Production Systems. Springer, Cham, 2022. 39-50."
+          type:     
+          url:     "https://www.researchgate.net/profile/Hassan-Imani/publication/356125832_Stereoscopic_Video_Quality_Assessment_Using_Modified_Parallax_Attention_Module/links/61ca1840e669ee0f5c6a953f/Stereoscopic-Video-Quality-Assessment-Using-Modified-Parallax-Attention-Module.pdf"   
+          doi:     
+          note:	    
+        - title:   "Three-Stream 3D deep CNN for no-Reference stereoscopic video quality assessment."
+          author:  "Imani, Hassan, Md Baharul Islam, and Nafiz Arica."
+          pub:     "Intelligent Systems with Applications 13"
+          type:     
+          url:      "https://www.researchgate.net/profile/Hassan-Imani/publication/357274721_Three-Stream_3D_Deep_CNN_for_No-Reference_Stereoscopic_Video_Quality_Assessment/links/61ca16eed4500608166fb1f3/Three-Stream-3D-Deep-CNN-for-No-Reference-Stereoscopic-Video-Quality-Assessment.pdf"
+          doi:     
+          note:	    
+        - title:    "A New Dataset and Transformer for Stereoscopic Video Super-Resolution."
+          author:  "Imani, Hassan, Md Baharul Islam, and Lai-Kuan Wong"
+          pub:     "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+          type:     
+          url:      "https://arxiv.org/pdf/2204.10039.pdf"
+          doi:     
+          note:	   
+        - title:    "Triplet Loss-based Convolutional Neural Network for Static Sign Language Recognition"
+          author:  "Arezoo Sadeghzadeh, Md Baharul Islam"
+          pub:     "Innovations in Intelligent Systems and Applications Conference"
+          type:     
+          url:     
+          doi:     
+          note:	  "Accepted"
     - year: "2021"
       groups:
         - title:   "Deep Covariance Feature and CNN-based End-to-End Masked Face Recognition "
