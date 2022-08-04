@@ -40,42 +40,24 @@ pubs:
           type:     c
           url:     "https://www.researchgate.net/profile/Hassan-Imani/publication/356125832_Stereoscopic_Video_Quality_Assessment_Using_Modified_Parallax_Attention_Module/links/61ca1840e669ee0f5c6a953f/Stereoscopic-Video-Quality-Assessment-Using-Modified-Parallax-Attention-Module.pdf"  
           doi:                  
-        - title:   "Shallow triple stream three-dimensional CNN (STSTNet) for micro-expression recognition"
-          author:  "Sze-Teng Liong, YS Gan, John See, Huai-Qian Khor"
-          pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
+        - title:   "Three-Stream 3D deep CNN for no-Reference stereoscopic video quality assessment."
+          author:  "Imani, Hassan, Md Baharul Islam, and Nafiz Arica."
+          pub:     "Intelligent Systems with Applications 13"
           type:     c
-          url:     "https://www.researchgate.net/profile/Hassan-Imani/publication/356125832_Stereoscopic_Video_Quality_Assessment_Using_Modified_Parallax_Attention_Module/links/61ca1840e669ee0f5c6a953f/Stereoscopic-Video-Quality-Assessment-Using-Modified-Parallax-Attention-Module.pdf"
+          url:     "https://www.researchgate.net/profile/Hassan-Imani/publication/357274721_Three-Stream_3D_Deep_CNN_for_No-Reference_Stereoscopic_Video_Quality_Assessment/links/61ca16eed4500608166fb1f3/Three-Stream-3D-Deep-CNN-for-No-Reference-Stereoscopic-Video-Quality-Assessment.pdf"
           doi:     
-        - title:   "MEGC 2019 – The Second Facial Micro-Expressions Grand Challenge"
-          author:  "John See, Moi Hoon Yap, Jingting Li, Xiaopeng Hong, Su-Jing Wang"
-          pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
+        - title:   "A New Dataset and Transformer for Stereoscopic Video Super-Resolution."
+          author:  "Imani, Hassan, Md Baharul Islam, and Lai-Kuan Wong"
+          pub:     "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition"
           type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756611"  
-          doi:     "https://doi.org/10.1109/FG.2019.8756611" 
-        - title:   "Group Re-Identification with Multi-grained Matching and Integration"
-          author:  "Weiyao Lin, Yuxi Li, Hao Xiao, John See, Junni Zou, Hongkai Xiong, Jingdong Wang, Tao Mei"
-          pub:     "IEEE Conference on Automatic Face and Gesture Recognition"
+          url:     "https://arxiv.org/pdf/2204.10039.pdf" 
+          doi:     
+        - title:   "Triplet Loss-based Convolutional Neural Network for Static Sign Language Recognition"
+          author:  "Arezoo Sadeghzadeh, Md Baharul Islam"
+          pub:     "Innovations in Intelligent Systems and Applications Conference"
           type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756611"  
-          doi:     "https://doi.org/10.1109/FG.2019.8756611"   
-        - title:   "Low-light image enhancement using Gaussian Process for features retrieval"
-          author:  "Yuen Peng Loh, Xuefeng Liang, Chee Seng Chan"
-          pub:     "Signal Processing: Image Communication"
-          type:     j
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658242&tag=1"  
-          doi:     "https://doi.org/10.1016/j.image.2019.02.001"                         
-        - title:   "Wide or Narrow? A Visual Attention Inspired Model for View-Type Classification"
-          author:  "Song Tong, Yuen Peng Loh, Xuefeng Liang, Takatsune Kumada"
-          pub:     "IEEE Access ( Volume: 7 )"
-          type:     c
-          url:     "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8692716"  
-          doi:     "https://doi.org/10.1109/ACCESS.2019.2908856"                   
-        - title:   "Getting to Know Low-light Images with The Exclusively Dark Dataset"
-          author:  "Yuen Peng Loh, Chee Seng Chan"
-          pub:     "Computer Vision and Image Understanding"
-          type:     j
-          url:     "https://www.sciencedirect.com/science/article/pii/S1077314218304296/pdfft?md5=ad7231052bc8af766aa18aa274921432&pid=1-s2.0-S1077314218304296-main.pdf"  
-          doi:     "https://doi.org/10.1016/j.cviu.2018.10.010" 
+          url:       
+          doi:                              
     - year: "2021"
       groups:
         - title:   "Deep Covariance Feature and CNN-based End-to-End Masked Face Recognition "
