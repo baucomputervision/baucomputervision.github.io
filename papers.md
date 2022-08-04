@@ -12,6 +12,12 @@ pubs:
           type:     c
           url:     "https://cmt3.research.microsoft.com/DLVDR2022"    
           doi:  
+        - title:   "HiMODE: A Hybrid Monocular Omnidirectional Depth Estimation Model"
+          author:  "Masum Shah Junayed, Arezoo Sadeghzadeh, Md Baharul Islam, Lai-Kuan Wong, and Tarkan Aydin"
+          pub:     "CVPR 2022, 3rd OmniCV Workshop"
+          type:     c
+          url:     
+          doi:  
         - title:   "HiMFR: A Hybrid Masked Face Recognition Through Face Inpainting"
           author:  "M. Baharul Islam, M. Imran Hosen"
           pub:     "International Conference on Pattern Recognition Workshop: Deep Learning for Visual Detection and Recognition"
@@ -61,6 +67,20 @@ pubs:
           note:	  "Accepted"
     - year: "2021"
       groups:
+        - title:   "Deep Covariance Feature and CNN-based End-to-End Masked Face Recognition "
+          author:  "Masum Shah Junayed, Arezoo Sadeghzadeh, Md Baharul Islam"
+          pub:     "IEEE International Conference on Automatic Face and Gesture Recognition"
+          type:     c
+          url:     
+          doi:    
+          note:  
+        - title:   "Real-Time YOLO-based Heterogeneous Front Vehicles Detection"
+          author:  "Masum Shah Junayed, Md Baharul Islam, Arezoo Sadeghzadeh, Tarkan Aydin"	
+          pub:     "INISTA-2021"
+          type:     c
+          url:     
+          doi:     
+          note:     
         - title:   "An Effective Multi-Camera Dataset and Hybrid Feature Matcher for Real-Time Video Stitching"
           author:  "M. Imran Hosen, M. Baharul Islam and A. Sadeghzadeh"
           pub:     "36th International Conference on Image and Vision Computing New Zealand (IVCNZ)"
@@ -82,7 +102,7 @@ pubs:
           url:     
           doi:     
           note: 
-	  ppt:    "/files/presentations/Arezoo_BinoVFAR presentation.pdf"
+	  ppt:    "/files/Arezoo_BinoVFAR presentation.pdf"
         - title:  "An Efficient Video Desnowing and Deraining Method with a Novel Variant Dataset"
           author:  "Arezoo Sadeghzadeh, Md Baharul Islam, Reza Zaker"
           pub:     "International Conference on Computer Vision Systems"
