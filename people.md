@@ -11,6 +11,7 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/people/lavdie.jpg" caption="Dr. Lavdie Rada" width="120px" height="120px"  %}
 
 
+
 ## Postgraduates
 {% include imagethumbnailblock.html url="/images/people/hassan.jpg" caption="Hassan Imani" caption2="Ph.D student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/imran.jpg" caption="Md Imran Hosen" caption2="Ph.D student" width="120px" height="120px"  %}
