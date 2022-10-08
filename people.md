@@ -17,16 +17,17 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/people/arezoo.jpg" caption="Arezoo Sadeghzadeh" caption2="Ph.D student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/alnur.jpg" caption="Alnur Alimanov " caption2="M.Sc student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/nophoto.jpg" caption="Assil Jaby" caption2="M.Sc student" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/misagh.jpg" caption="Misagh Asgari" caption2="M.Sc Student" width="120px" height="120px"  %}
 
 ## Research Trainees
 {% include imagethumbnailblock.html url="/images/people/sevval.jpg" caption="Şevval Çolak" caption2="Undergraduate student" width="120px" height="120px"  %}
 {% include imagethumbnailblock.html url="/images/people/ugur.jpg" caption="Uğur Taysi" caption2="Undergraduate student" width="120px" height="120px"  %}
 
 ## Alumni
-{% include imagethumbnailblock.html url="/images/people/masum.jpg" caption="Masum Shah Junayed" caption2="Ph.D. Student, University of Connecticut, USA" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/people/afsana.jpg" caption="Afsana Ahsan Jeny " caption2="M.Sc Alumni" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/people/misagh.jpg" caption="Misagh Asgari" caption2="M.Sc" width="120px" height="120px"  %}
-{% include imagethumbnailblock.html url="/images/people/yusuf.jpg" caption="Yusuf B. Tanrıverdi" caption2="Intern Alumni" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/nophoto.jpg" caption="Abdullah Amer" caption2="Postdoc Alumni" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/masum.jpg" caption="Masum Shah Junayed" caption2="M.Sc. Alumni, Current Position: Ph.D. Student, University of Connecticut, USA" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/afsana.jpg" caption="Afsana Ahsan Jeny " caption2="M.Sc. Alumni, Current Position: Ph.D. Student, Wayne State University, USA" width="120px" height="120px"  %}
+{% include imagethumbnailblock.html url="/images/people/yusuf.jpg" caption="Yusuf B. Tanrıverdi" caption2="Intern Alumni, Current Position: M.Sc. Student, Université de Bourgogne, France" width="120px" height="120px"  %}
 
 
 
