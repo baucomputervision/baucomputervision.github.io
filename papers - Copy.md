@@ -12,7 +12,7 @@ pubs:
           type:     c
           url:     "https://cmt3.research.microsoft.com/DLVDR2022"    
           doi:  
-	  note:	   "Accepted"
+	  note:	   
         - title:   "HiMODE: A Hybrid Monocular Omnidirectional Depth Estimation Model"
           author:  "Masum Shah Junayed, Arezoo Sadeghzadeh, Md Baharul Islam, Lai-Kuan Wong, and Tarkan Aydin"
           pub:     "CVPR 2022, 3rd OmniCV Workshop"
@@ -37,7 +37,7 @@ pubs:
           type:     c
           url:     "https://cmt3.research.microsoft.com/TCAP2022"    
           doi:     
-          note:	   "Accepted"   
+          note:	      
         - title:   "Stereoscopic Video Quality Assessment Using Modified Parallax Attention Module."
           author:  "Imani, Hassan, et al."
           pub:     "Digitizing Production Systems. Springer, Cham, 2022. 39-50."
