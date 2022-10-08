@@ -31,7 +31,6 @@ permalink: /people/
 {% include imagethumbnailblock.html url="/images/people/yusuf.jpg" caption="Yusuf B. Tanrıverdi" caption2="Intern Alumni, Current Position: M.Sc. Student, Université de Bourgogne, France" width="120px" height="120px"  %}
 
 
-
 [Dr. Baharul Islam]:https://akademik.bahcesehir.edu.tr/web/mdbaharulislam/tr/index.html
 [Dr. Tarkan Aydın]:https://akademik.bahcesehir.edu.tr/web/tarkanaydin/en/index.html
 [Dr. Lavdie Rada]:https://akademik.bahcesehir.edu.tr/web/lavdieradaulgen/tr/index.html
