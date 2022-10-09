@@ -8,7 +8,7 @@ permalink: /research/jobs/
 
 ## Jobs
 
-Vacancies in ViPr Lab will be posted here.
+Vacancies in BAU Computer Vision Lab will be posted here.
 
 <!--  ### Funded -->
 
