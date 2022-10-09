@@ -10,33 +10,8 @@ permalink: /research/fyp/
 
 The following are projects to be offered for undergraduate FYPs for the upcoming academic session. Do inform us directly if you have enquiries or are interested to take it up. Students working on these projects will be affiliated with our lab and will have access to our facilities (**hot-desks** are provided at the lab, but subject to availability). 
   
-**Dr. Wong Lai Kuan**
+**Dr. Md Baharul Islam**
 - Joint Prediction of Technical and Aesthetics Image Quality
-- Content-driven Image Enhancement SDK with An Application Interface
-- Context-Aware Image Emotion Prediction
-- DECOVID-CXR-II: A multimodal AI model for severity assessment of COVID-19 Infection using Chest X-Rays
-- DECOVID-CT-II: A multimodal deep learning model for severity assessment of COVID-19 Infection using CT Scan
-- PhotoViewRec: A Machine Learning Model for Recommending Photographic View with Good Composition
-
-**Dr. Loh Yuen Peng**
-- Leaf Images Synthesis- 
-- Plant Disease Classification
-- Object Recognition in Low-light Images
-- Dashboard Camera View Vehicle License Plate Recognition and Compliance Verification
-
-**Dr. Pee Chih Yang**
-- Moment based Handwritten Signature Verification System
-- Moment based Leaf classification System
-- Plant Disease Assessment using Deep Learning
-
-**Mr. Albert Quek**
-- Virtual Reality Application Treatment for Trypanophobia
-- Physical Rehabilitation using Virtual Reality
-- Locomotion Gameplay for Virtual Reality Game
-- Immersive Virtual Reality Game that Utilizes Wind Mechanics
-- Escape Room Horror Game
-- RPG Exergame in Virtual Reality
-- Audio Based Controller for Game
 
 {::comment}
 {% include imagethumbnailblock.html align="left" url="/images/aquas.png" width="120px" height="120px" padding="right" %}
