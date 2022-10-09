@@ -19,12 +19,12 @@ Vacancies in ViPr Lab will be posted here.
 ---
 ### Voluntary    
 
-We are always happy to receive students, from undergraduate or postgraduate levels, who would like to work in our lab on a voluntary basis (similar to the [hiwi]{:target="_blank"} scheme in Germany). What we do offer is: 
+We are always happy to receive students, from undergraduate or postgraduate levels, who would like to work in our lab on a voluntary basis. What we do offer is: 
 * Opportunity to work in an enthusiastic research group in specific niche areas in visual processing
 * Participation in regular reading group and access to facilities in the lab (machines and coffee!) 
 * Gain experience or a foretaste of working in computing research. 
 
-Send your CV with a cover letter to Dr. Wong Lai Kuan (`lkwong[at]mmu[dot]edu[dot]my`) or Dr. Loh Yuen Peng (`yploh[at]mmu[dot]edu[dot]my`).
+Send your CV with a cover letter to Dr. Baharul Islam (`bislam.eng[at]gmail[dot]com`).
 <!-- have ONE **Masters GRA vacancy** ([flyer here]{:target="_blank"}) for project **DeepME**. Interested applicants can fill in the application form below, or click [here]{:target="_blank"} if the form does not load properly on this page. -->
 
 <!-- <iframe src="https://www.formpl.us/form/5236576223232000" frameborder="0" width="800" height="1980" >
